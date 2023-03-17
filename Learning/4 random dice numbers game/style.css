@@ -1,0 +1,7 @@
+.linha{
+    display: flex;
+}
+
+.space{
+    margin-right: 5px;
+}
