@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(235, 235, 235);
+}
+
+#maxInput {
+    height: 15px;
+    width: 50px;
+    margin-left: 15px;
+}
+
+#maxButton {
+    padding: 3px 6px 3px 6px;
+    height: 23px;
+    width: 70px;
+    padding: 1px;
+}
+
+div {
+    display:block;
+    word-wrap: break-word;
+}
